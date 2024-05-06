@@ -1,0 +1,13 @@
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\bin\Debug\netcoreapp3.1\AccountingSoftware.exe
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\bin\Debug\netcoreapp3.1\AccountingSoftware.deps.json
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\bin\Debug\netcoreapp3.1\AccountingSoftware.runtimeconfig.json
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\bin\Debug\netcoreapp3.1\AccountingSoftware.runtimeconfig.dev.json
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\bin\Debug\netcoreapp3.1\AccountingSoftware.dll
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\bin\Debug\netcoreapp3.1\AccountingSoftware.pdb
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\obj\Debug\netcoreapp3.1\AccountingSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\obj\Debug\netcoreapp3.1\AccountingSoftware.AssemblyInfoInputs.cache
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\obj\Debug\netcoreapp3.1\AccountingSoftware.AssemblyInfo.cs
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\obj\Debug\netcoreapp3.1\AccountingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\obj\Debug\netcoreapp3.1\AccountingSoftware.dll
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\obj\Debug\netcoreapp3.1\AccountingSoftware.pdb
+C:\Users\zaiqu\source\repos\AccountingSoftware\AccountingSoftware\obj\Debug\netcoreapp3.1\AccountingSoftware.genruntimeconfig.cache
