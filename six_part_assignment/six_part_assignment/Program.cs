@@ -27,7 +27,7 @@ class Program
             Console.WriteLine("Hello World");
         }
 
-        Assignment PART 3
+        //Assignment PART 3
         for (int i = 0; i < 10; i++)
         {
             Console.WriteLine(i);
