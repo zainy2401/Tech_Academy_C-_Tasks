@@ -1,0 +1,14 @@
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringsAndIntegersAssignment.exe
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringsAndIntegersAssignment.deps.json
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringsAndIntegersAssignment.runtimeconfig.json
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringsAndIntegersAssignment.runtimeconfig.dev.json
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringsAndIntegersAssignment.dll
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringsAndIntegersAssignment.pdb
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.csproj.AssemblyReference.cache
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.AssemblyInfoInputs.cache
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.AssemblyInfo.cs
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.dll
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.pdb
+C:\Users\zaiqu\source\repos\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.genruntimeconfig.cache
