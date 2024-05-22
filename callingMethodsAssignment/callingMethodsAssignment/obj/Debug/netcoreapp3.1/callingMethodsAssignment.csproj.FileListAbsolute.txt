@@ -1,0 +1,14 @@
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\bin\Debug\netcoreapp3.1\callingMethodsAssignment.exe
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\bin\Debug\netcoreapp3.1\callingMethodsAssignment.deps.json
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\bin\Debug\netcoreapp3.1\callingMethodsAssignment.runtimeconfig.json
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\bin\Debug\netcoreapp3.1\callingMethodsAssignment.runtimeconfig.dev.json
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\bin\Debug\netcoreapp3.1\callingMethodsAssignment.dll
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\bin\Debug\netcoreapp3.1\callingMethodsAssignment.pdb
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\obj\Debug\netcoreapp3.1\callingMethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\obj\Debug\netcoreapp3.1\callingMethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\obj\Debug\netcoreapp3.1\callingMethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\obj\Debug\netcoreapp3.1\callingMethodsAssignment.AssemblyInfo.cs
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\obj\Debug\netcoreapp3.1\callingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\obj\Debug\netcoreapp3.1\callingMethodsAssignment.dll
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\obj\Debug\netcoreapp3.1\callingMethodsAssignment.pdb
+C:\Users\zaiqu\source\repos\callingMethodsAssignment\callingMethodsAssignment\obj\Debug\netcoreapp3.1\callingMethodsAssignment.genruntimeconfig.cache
