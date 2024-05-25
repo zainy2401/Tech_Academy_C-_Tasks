@@ -1,0 +1,13 @@
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.exe
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.deps.json
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.runtimeconfig.json
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.runtimeconfig.dev.json
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.dll
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.pdb
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.AssemblyInfoInputs.cache
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.AssemblyInfo.cs
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.dll
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.pdb
+C:\Users\zaiqu\source\repos\MethodAssignment\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.genruntimeconfig.cache
