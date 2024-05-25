@@ -1,0 +1,13 @@
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.exe
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.deps.json
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.runtimeconfig.json
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.runtimeconfig.dev.json
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.dll
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.pdb
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.AssemblyInfo.cs
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.dll
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.pdb
+C:\Users\zaiqu\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.genruntimeconfig.cache
