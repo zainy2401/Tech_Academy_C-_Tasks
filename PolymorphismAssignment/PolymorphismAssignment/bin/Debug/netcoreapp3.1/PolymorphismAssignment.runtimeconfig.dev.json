@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\zaiqu\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\zaiqu\\.nuget\\packages"
-    ]
-  }
-}
