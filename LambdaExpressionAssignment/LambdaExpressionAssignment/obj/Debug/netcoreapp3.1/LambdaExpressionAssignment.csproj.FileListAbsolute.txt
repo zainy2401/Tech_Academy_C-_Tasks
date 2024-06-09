@@ -1,0 +1,13 @@
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.exe
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.deps.json
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.runtimeconfig.json
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.runtimeconfig.dev.json
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.dll
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.pdb
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.AssemblyInfoInputs.cache
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.AssemblyInfo.cs
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.dll
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.pdb
+C:\Users\zaiqu\source\repos\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.genruntimeconfig.cache
