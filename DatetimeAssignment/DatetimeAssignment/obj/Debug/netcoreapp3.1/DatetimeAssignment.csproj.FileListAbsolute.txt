@@ -1,0 +1,13 @@
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.1\DatetimeAssignment.exe
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.1\DatetimeAssignment.deps.json
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.1\DatetimeAssignment.runtimeconfig.json
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.1\DatetimeAssignment.runtimeconfig.dev.json
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.1\DatetimeAssignment.dll
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.1\DatetimeAssignment.pdb
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.AssemblyInfoInputs.cache
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.AssemblyInfo.cs
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.dll
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.pdb
+C:\Users\zaiqu\source\repos\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.genruntimeconfig.cache
